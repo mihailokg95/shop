@@ -4,6 +4,8 @@
   display: flex;
   justify-content: space-between;
   margin-bottom: 25px;
+  padding-left: 50px;
+  align-items: center;
 
   .logo-container {
     height: 100%;
@@ -17,6 +19,7 @@
     display: flex;
     align-items: center;
     justify-content: flex-end;
+    padding-right: 120px;
 
     .option {
       padding: 10px 15px;
