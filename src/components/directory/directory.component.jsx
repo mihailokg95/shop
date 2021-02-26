@@ -20,7 +20,7 @@ function Directory() {
       title: "sneakers",
       imageUrl: "https://i.ibb.co/0jqHpnp/sneakers.png",
       id: 3,
-      linkUrl: "",
+      linkUrl: "sneakers",
     },
     {
       title: "womens",
